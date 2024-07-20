@@ -13,7 +13,7 @@ _🚀 Quick note: I'm looking for job opportunities as a software developer, for
 
 ## Installation
 Ensure you have python installed in your system.
-clone the repository or download the zip file and extract it.
+Clone the repository or download the zip file and extract it.
 
 
 ### For Pip install
